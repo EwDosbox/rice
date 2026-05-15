@@ -1,0 +1,9 @@
+
+# Vesktop Stuff
+vesktop/.config/vesktop/Singleton*
+vesktop/.config/vesktop/Crashpad/
+vesktop/.config/vesktop/state.json
+vesktop/.config/vesktop/logs/
+vesktop/.config/vesktop/Cache/
+vesktop/.config/vesktop/GPUCache/
+/vesktop/.config/vesktop/sessionData/*
